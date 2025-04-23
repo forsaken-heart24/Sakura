@@ -2,5 +2,5 @@
 
 # 咲良 | Sakura
 
-## a silly magisk module that tweaks your kernel parameters.
+## A silly magisk module that tweaks your device parameters.
 - Still in development, cook this by yourself if you've really interested in...
